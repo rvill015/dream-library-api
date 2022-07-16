@@ -1,2 +1,2 @@
 # dream-library-api
-An API of books I want to read.
+an API of books I want to read
