@@ -1,0 +1,26 @@
+{
+    "dream-library": [
+        {
+            "id": 0,
+            "name": "The Blade Itself",
+            "authors": ["Joe Abercrombie"],
+            "series": true,
+            "genre": "fantasy",
+            "language": "English",
+            "country": "United Kingdom",
+            "publishers": ["Gollancz", "Orbit Books"],
+            "publication date": 2006 
+        },
+        {
+            "id": 1,
+            "name": "The Grace of Kings",
+            "authors": ["Ken Liu"],
+            "series": true,
+            "genre": "fantasy",
+            "language": "English",
+            "country": "United States",
+            "publishers": ["Saga Press"],
+            "publication date": 2015 
+        }
+    ]
+}
