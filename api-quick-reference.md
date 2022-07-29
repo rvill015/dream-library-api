@@ -1,4 +1,4 @@
-# API Quick reference
+# API Quick Reference
 
 ## Dream Library API
 
